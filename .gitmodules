@@ -1,0 +1,6 @@
+[submodule "exploringrpi"]
+	path = exploringrpi
+	url = https://github.com/Carlosman1996/exploringrpi.git
+[submodule "WiringPi"]
+	path = ejercicios/chapter06/WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
