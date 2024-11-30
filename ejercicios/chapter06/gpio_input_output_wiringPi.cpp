@@ -1,6 +1,5 @@
 /*
 Compile and run:
-
     g++-12 gpio_input_output_wiringPi.cpp -o gpio_input_output_wiringPi -lwiringPi
     sudo ./gpio_input_output_wiringPi
 */
